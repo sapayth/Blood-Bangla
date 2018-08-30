@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".AboutActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- The primary duty of this app is to connect Blood Donor and Blood Seeker."/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="- BloodBangla discourage any kind of transaction of money. If anyone does so, BloodBangla is not responsible."/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="- Before contacting any BloodBangla Donor over phone, for blood donation, seekers should make sure that they have enquired with their relatives, friends and local organizations, blood-banks and hospitals for the same."/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="- As a user you are responsible for the data you share and contacts you make. BloodBangla management or stuff do not undertake responsibility of any sort of guarantee for the data provided by donors and seekers registering with the app."/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="- BloodBangla would not be responsible for any situation/issue arising out of any money and/or favour demanded Donor or Seeker."/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "76987715474",
+    "firebase_url": "https://bloodbangla.firebaseio.com",
+    "project_id": "bloodbangla",
+    "storage_bucket": "bloodbangla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76987715474:android:ffe0ceb412095d73",
+        "android_client_info": {
+          "package_name": "com.sapayth.bloodbangla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76987715474-ekk6m0kr09e50402fh67b5kt6q9cqrnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sapayth.bloodbangla",
+            "certificate_hash": "ee415b1b3d0d2b6c1525e7c79ef72a2809a25c10"
+          }
+        },
+        {
+          "client_id": "76987715474-9eght6obl228804b0i681u57qd6v9jov.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "76987715474-9eght6obl228804b0i681u57qd6v9jov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD0waM-ThtzHX3kuUYrlcjfdu0RshOgYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76987715474-9eght6obl228804b0i681u57qd6v9jov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

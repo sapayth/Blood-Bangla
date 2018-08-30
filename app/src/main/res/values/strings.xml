@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">BloodBangla</string>
+    <string name="donate">Donate</string>
+    <string name="search">Search</string>
+    <string name="request">Request</string>
+    <string name="edit_request">Edit Request</string>
+    <string name="map_view">Map View</string>
+    <string name="history">History</string>
+    <string name="about">About</string>
+    <string name="find">Find</string>
+    <string name="name">Name</string>
+    <string name="contact_no">Contact No</string>
+    <string name="address">Address</string>
+    <string name="secondary_contact_no_optional">Secondary Contact No(Optional)</string>
+    <string name="registration">Registration</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="log_in">Log In</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="name_">Name:&#032;</string>
+    <string name="email_">Email:&#032;</string>
+    <string name="blood_group_">Blood Group:&#032;</string>
+    <string name="age_">Age:&#032;</string>
+    <string name="location_">Location:&#032;</string>
+    <string name="gender_">Gender:&#032;</string>
+    <string name="contact_no_">Contact No:&#032;</string>
+    <string name="second_contact_no_">Second Contact No:&#032;</string>
+    <string name="update_info">Update Info</string>
+    <string name="available_to_donate">Available to donate blood?</string>
+    <string name="location">Location</string>
+    <string name="edit_info">Edit Info</string>
+    <string name="please_log_in_first_to_make_a_request">Please log in first to make a request</string>
+    <string name="comment">Comment</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="needed_date">Needed Date</string>
+    <string name="my_requests">My Requests</string>
+    <string-array name="blood_group_arrays">
+        <item>AB-</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>A+</item>
+        <item>B-</item>
+        <item>B+</item>
+        <item>O-</item>
+        <item>O+</item>
+    </string-array>
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_my_request">MyRequestActivity</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="donor_list">Donor List</string>
+    <string name="seeker_list">Seeker List</string>
+    <string name="request_blood">Request Blood</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
